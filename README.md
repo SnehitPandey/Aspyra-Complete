@@ -1,8 +1,4 @@
 
-<p align="center">
-  <img src="frontend/public/images/logo.png" alt="FocusKami Logo" width="120" height="120" />
-</p>
-
 <h1 align="center">🎯 Aspyra</h1>
 
 <p align="center">
